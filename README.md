@@ -9,5 +9,6 @@ When the user clicks the "Generate Password" button, they will be presented with
 - Javascript
 # Author
 This app was created by Jeffrey Ackerman with the help of the Google search engine and YouTube.
+Github: https://github.com/ackermanjs/PasswordGeneratorChallenge3
 # License
 MIT
